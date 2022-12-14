@@ -1,4 +1,4 @@
-import * as cookies from './modules/Cookies/cookies';
-import factory from './localStorage';
+import { EngineTypes } from './modules/Cookies/enums/EngineTypes'
+import factory from './modules/Cookies/class/classCookie';
 
-const ls = factory('user')
+const ls = factory('user', EngineTypes.localStorage)
