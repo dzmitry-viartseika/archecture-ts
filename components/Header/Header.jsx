@@ -1,3 +1,5 @@
+// *** OCR ***
+
 // const Header = () => {
 //     const { pathname } = useRouter()
 //

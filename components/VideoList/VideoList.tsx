@@ -1,3 +1,5 @@
+// *** Interface Segregation Principle ***
+
 type Video = {
     title: string
     duration: number

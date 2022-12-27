@@ -1,3 +1,5 @@
+// *** Dependency Inversion Principle ***
+
 // import api from '~/common/api'
 //
 // const LoginForm = () => {

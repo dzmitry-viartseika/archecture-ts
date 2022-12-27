@@ -1,3 +1,5 @@
+// *** SRP ***
+
 // before refactoring
 // const ActiveUsersList = () => {
 //     const [users, setUsers] = useState([])
